@@ -1,0 +1,27 @@
+[
+  {
+    "name": "RfidTrigger",
+    "version": "1.0.0",
+    "packageName": "@phonophant/rfid-tigger"
+  },
+  {
+    "name": "FileAction",
+    "version": "1.0.0",
+    "packageName": "@phonophant/file-action"
+  },
+  {
+    "name": "VlcPlayer",
+    "version": "1.0.0",
+    "packageName": "@phonophant/vlc-player"
+  },
+  {
+    "name": "PluginPilet",
+    "version": "1.0.0",
+    "packageName": "@phonophant/plugin-pilet"
+  },
+  {
+    "name": "PluginPilet2",
+    "version": "1.0.0",
+    "packageName": "@phonophant/plugin-pilet2"
+  }
+]
