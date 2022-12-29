@@ -20,8 +20,8 @@
     "packageName": "@phonophant/plugin-pilet"
   },
   {
-    "name": "PluginPilet2",
+    "name": "LoggerPilet",
     "version": "^1.0.0",
-    "packageName": "@phonophant/plugin-pilet2"
+    "packageName": "@phonophant/logger-pilet"
   }
 ]
